@@ -21,3 +21,4 @@
     }
 
     add_action('widgets_init', 'github_api_registro');
+    
